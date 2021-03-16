@@ -1,0 +1,25 @@
+
+body {
+    padding: 60px;
+    background-image: url("https://i.pinimg.com/564x/a9/98/0b/a9980b9da9c0735a548c22bd8d7fc57d.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+h1 {
+    font-family: 'Cormorant Unicase', serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+p{
+    font-family: 'Cormorant Unicase', serif;
+    font-family: 'Manrope', sans-serif;
+    color: white;
+    margin-bottom: 50px;
+}
+
